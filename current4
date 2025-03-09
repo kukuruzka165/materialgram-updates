@@ -1,3 +1,3 @@
 {"win64": {"alpha": {"released": "0000000000", "testing": "0000000000", "link": "/tx64/tx64upd{version}_{signature}"},
 "beta": {"released": "40000001", "testing": "40000001", "link": "/tx64/tx64upd{version}"},
-"stable": {"released": "501000003", "testing": "501000003", "link": "/tx64/tx64upd{version}"}}}
+"stable": {"released": "501000004", "testing": "501000004", "link": "/tx64/tx64upd{version}"}}}
